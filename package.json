@@ -1,0 +1,17 @@
+{
+  "name": "WeatherJournalApp",
+  "version": "1.0.0",
+  "description": "API Credentials and Integrating OpenWeatherMap API",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+ "author":{
+"name":"Ghadeer Salim Alkalbani", 
+ "Email": "ghadeer.alkalbani29@gmail.com",
+"URL":"file:///C:/Users/96899/Desktop/Weather%20Journal%20App/Weather%20Journal%20App%20Project%203/index.html"
+}
+}
+
+
